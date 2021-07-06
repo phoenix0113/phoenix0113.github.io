@@ -1,0 +1,29 @@
+.img-circle {
+    width: 225px;
+    height: 225px;
+}
+
+.skills .progress .progress-bar-primary {
+    background: #fff;
+}
+
+.progress {
+    background-color: #204090;
+}
+
+.education, .contact {
+    min-height: 250px;
+}
+
+.project-image {
+    width: 100%;
+    padding: 15px 0;
+}
+
+.experience {
+    height: 500px;
+}
+
+.text-center {
+    text-align: center;
+}
