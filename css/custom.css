@@ -11,8 +11,12 @@
     background-color: #204090;
 }
 
-.education, .contact {
-    min-height: 250px;
+.education {
+    min-height: 280px;
+}
+
+.contact {
+    min-height: 280px;
 }
 
 .project-image {
