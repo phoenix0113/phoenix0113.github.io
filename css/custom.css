@@ -1,33 +1,33 @@
 .img-circle {
-    width: 225px;
-    height: 225px;
+  width: 225px;
+  height: 225px;
 }
 
 .skills .progress .progress-bar-primary {
-    background: #fff;
+  background: #fff;
 }
 
 .progress {
-    background-color: #204090;
+  background-color: #204090;
 }
 
 .education {
-    min-height: 280px;
+  min-height: 280px;
 }
 
 .contact {
-    min-height: 280px;
+  min-height: 280px;
 }
 
 .project-image {
-    width: 100%;
-    padding: 15px 0;
+  width: 100%;
+  padding: 15px 0;
 }
 
 .experience {
-    height: 500px;
+  height: 500px;
 }
 
 .text-center {
-    text-align: center;
+  text-align: center;
 }
